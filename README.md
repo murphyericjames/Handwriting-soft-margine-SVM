@@ -1,0 +1,1 @@
+# Handwriting soft-margine SVM
